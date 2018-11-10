@@ -1,3 +1,3 @@
 # Ergodox_config
 
-created here: https://configure.ergodox-ez.com/layouts/ovxZ/latest/0
+created here: https://configure.ergodox-ez.com/layouts/wa49/latest/3
